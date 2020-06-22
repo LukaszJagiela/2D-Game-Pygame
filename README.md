@@ -5,4 +5,6 @@ Projekt na studia - Projektowanie obiektowe
 - stowrzenie przeszkód i przeciwników
 - stworzenie kilku poziomów gry
 - stworzenie itemów, które zwiększają wynik gracza i dają mu różne możliwości
+## Jak wygląda?
+<img src="https://github.com/LukaszJagiela/2D-Game-Pygame/blob/master/game-gif.gif" width="500" height= "600"/>
 
